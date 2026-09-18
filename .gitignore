@@ -1,0 +1,16 @@
+# Compiled binaries
+*.o
+*.exe
+patient_record
+a.out
+
+# IDE / editor files
+.vscode/
+.idea/
+*.cbp
+*.layout
+*.depend
+
+# OS files
+.DS_Store
+Thumbs.db
