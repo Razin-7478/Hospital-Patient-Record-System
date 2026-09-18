@@ -2,11 +2,6 @@
 
 A menu-driven **Hospital Patient Record System** written in C using structured programming concepts.
 
-**Course:** CSE1202 – Structured Programming Lab  
-**Institution:** University of Liberal Arts Bangladesh (ULAB)  
-**Student:** Khadijatul Kubra Evana (ID: 243014101)  
-**Section:** 04 | **Semester:** Spring 2025
-
 ---
 
 ## Features
